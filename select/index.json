@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ベルセルク - Berserk",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-01-13T15:44:27.803020Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ベルセルク",
+      "artist": "Neru×西川貴教",
+      "has_synced": true,
+      "path": "select/01_ベルセルク_Neru×西川貴教.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ベルセルク",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_ベルセルク_まふまふ.txt"
+    }
+  ]
+}
