@@ -1,17 +1,9 @@
 {
   "version": 1,
-  "base_track": "ベルセルク - Berserk",
+  "base_track": "ベルセルク（feat. SILVANA）",
   "base_artist": "まふまふ",
-  "createdAt": "2026-01-13T15:46:52.161025Z",
+  "createdAt": "2026-03-18T09:53:13.491470Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "ベルセルク",
-      "artist": "Neru×西川貴教",
-      "has_synced": true,
-      "path": "select/01_ベルセルク_Neru×西川貴教.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
